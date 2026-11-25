@@ -45,4 +45,4 @@ The analysis uses historical marketplace transactions and recorded freight charg
 
 ## Author
 Camila Campbell  
-Business Analytics & Information Systems Student | University of South Florida
+Business Analytics & Information Systems | University of South Florida
